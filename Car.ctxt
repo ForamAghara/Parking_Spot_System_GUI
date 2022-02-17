@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=reg\ owner\ staff\ frame
+comment1.target=Car(java.lang.String,\ java.lang.String,\ java.lang.String,\ javax.swing.JFrame)
+comment2.params=reg
+comment2.target=boolean\ reg_validate(java.lang.String)
+comment3.params=staff
+comment3.target=boolean\ staff_validate(java.lang.String)
+numComments=4

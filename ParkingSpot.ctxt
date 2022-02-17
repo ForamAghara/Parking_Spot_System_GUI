@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ParkingSpot
+comment0.text=\r\n\ ParkingSpot\ Class\r\n\ This\ class\ stores\ the\ data\ for\ each\ parking\ spot\ \r\n\ @author\ -\ Foram\ Aghara\r\n\ @version\ -\ 2.0.0\r\n
+comment1.params=slot\ staff\ cr
+comment1.target=ParkingSpot(java.lang.String,\ java.lang.String,\ Car)
+numComments=2
